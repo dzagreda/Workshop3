@@ -4,6 +4,9 @@
   bottom: 0px;
   right: 20px;
 }
-body {
+.body {
   padding-top: 60px;
+}
+.fb-search {
+  width: 395px !important;
 }
